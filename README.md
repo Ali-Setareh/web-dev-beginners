@@ -1,1 +1,1 @@
-This is the repo for my self study project learning: web development
+This is the repo for my self study project :learning web development
